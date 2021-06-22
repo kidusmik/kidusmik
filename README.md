@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kidusmik
-- 👀 I’m interested in Moblie App Development
-- 🌱 I’m currently learning Android Development
-- 💞️ I’m looking to collaborate on Mobile applications
+- 👋 Hi, I’m @kidusmik (You can call me Kidus)
+- 👀 I’m interested in App (Mobile/Web/Desktop) development
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on android app development projects
 - 📫 How to reach me: DM or kidusmik@gmail.com
 
 <!---
