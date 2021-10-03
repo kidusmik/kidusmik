@@ -7,8 +7,7 @@
 ## Connect with me
 
 * [LinkedIn](https://www.linkedin.com/in/kidusmik)
-* [StackOverflow](https://www.stackoverflow.com/users/
-10644546/kidus)
+* [StackOverflow](https://www.stackoverflow.com/users/10644546/kidus)
 * [Twitter](https://www.twitter.com/Kidusmike)
 
 <!---
