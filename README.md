@@ -10,6 +10,15 @@
 * [StackOverflow](https://www.stackoverflow.com/users/10644546/kidus)
 * [Twitter](https://www.twitter.com/Kidusmike)
 
+
+![Kidus' GitHub stats](https://github-readme-stats.vercel.app/api?username=kidusmik&show_icons=truecount_private=true)
+
+NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidusmik)](https://github.com/kidusmik/github-readme-stats)
+
+
+
 <!---
 kidusmik/kidusmik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
