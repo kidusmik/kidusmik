@@ -18,7 +18,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidusmik)](https://github.com/kidusmik/github-readme-stats)
 
+## Streak status
 
+[![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kidusmik)](https://github-readme-streak-stats.herokuapp.com/?user=kidusmik)
 
 <!---
 kidusmik/kidusmik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
