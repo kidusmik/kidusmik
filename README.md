@@ -10,17 +10,17 @@
 * [StackOverflow](https://www.stackoverflow.com/users/10644546/kidus)
 * [Twitter](https://www.twitter.com/Kidusmike)
 
-## GitHub Stats
+## Streak status
 
-![Kidus' GitHub stats](https://github-readme-stats.vercel.app/api?username=kidusmik&show_icons=truecount_private=true)
+[![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kidusmik)](https://github-readme-streak-stats.herokuapp.com/?user=kidusmik)
 
 ## Top used languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidusmik)](https://github.com/kidusmik/github-readme-stats)
 
-## Streak status
+## GitHub Stats
 
-[![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kidusmik)](https://github-readme-streak-stats.herokuapp.com/?user=kidusmik)
+![Kidus' GitHub stats](https://github-readme-stats.vercel.app/api?username=kidusmik&show_icons=truecount_private=true)
 
 <!---
 kidusmik/kidusmik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
