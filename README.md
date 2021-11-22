@@ -10,10 +10,11 @@
 * [StackOverflow](https://www.stackoverflow.com/users/10644546/kidus)
 * [Twitter](https://www.twitter.com/Kidusmike)
 
+## GitHub Stats
 
 ![Kidus' GitHub stats](https://github-readme-stats.vercel.app/api?username=kidusmik&show_icons=truecount_private=true)
 
-NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
+## Top used languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidusmik)](https://github.com/kidusmik/github-readme-stats)
 
