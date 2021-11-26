@@ -10,6 +10,10 @@
 * [StackOverflow](https://www.stackoverflow.com/users/10644546/kidus)
 * [Twitter](https://www.twitter.com/Kidusmike)
 
+## My live projects
+
+* [Awde Negest](https://play.google.com/store/apps/details?id=com.starx.development.awdenegest)
+
 ## Streak status
 
 [![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kidusmik)](https://github-readme-streak-stats.herokuapp.com/?user=kidusmik)
