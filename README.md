@@ -6,52 +6,54 @@
 [![Kidus' Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kidusmik@gmail.com)
 [![Kidus' Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/kidusmik)
 
-Nice to see you, I'm Kidus, a Software Engineer, Full-Stack Web Developer and Android Application Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197636.png" width="13"/>Addis Ababa, Ethiopia.
+Nice to meet you, I'm Kidus, a **Software Engineer**, **Full-Stack Web Developer** and **Android Application Developer** from <img src="https://cdn-icons-png.flaticon.com/512/197/197636.png" width="13"/>_Addis Ababa, Ethiopia_.
 
-I am interested in anything Tech and enthusiastic about solving real life problems and applying my skill set to solve and have meaningful impact in online or offline communities. 
+I am interested in anything **Tech** and enthusiastic about solving real life problems and applying my skill set to solve and have meaningful impact in _online_ or _offline_ communities.
+
+I am currently studying **Full-Stack Web development** and also **Artificial Intelligence**, and just to talk about my past acheivements, I have a _BSc. degree_ in **Electromechanical Engineering** and I have worked in the **Electronics and Communication Engineering** sector.
 
 ## Things I'm working with
 <div align="center">
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-    <img alt="Python" src="https://img.shields.io/badge/flask-333333?style=for-the-badge&logo=flask&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-<img alt="Nodejs" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-<img alt="Nodejs" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-<img alt="Nodejs" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<img alt="Nodejs" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img alt="Nodejs" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white" />
-<img alt="Nodejs" src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white" />
-<img alt="Nodejs" src="  https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-</p>
+  <p>
+    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <img alt="Flask" src="https://img.shields.io/badge/flask-333333?style=for-the-badge&logo=flask&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+    <img alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+    <img alt="GCP" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+    <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+    <img alt="Bash" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <img alt="Gunicorn" src="https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white" />
+    <img alt="Vagrant" src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white" />
+    <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
+    <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  </p>
 </div>
 
 ## My live projects
 
-Here are few of my projects that I have released and deployed.
+Here are few of my projects that I have **released** or **deployed**.
 
 ### 1. Awde Negest
 
 [<img alt="alt_text" width="100px" src="https://awdenegest.files.wordpress.com/2021/09/a-n-logo.png" align="left"/>](https://play.google.com/store/apps/details?id=com.starx.development.awdenegest)
 
-Awde Negest is an Ethiopian astrology which divines personality and behavior of a person, gives prediction and advises about different aspects of life such as marriage, travel, enmity, pregnancy, trial, illness, business and so much more by calculating the letters of names, places, months and other fields that are required by the categories you chose.
+**Awde Negest** is an _Ethiopian_ **astrology** which divines personality and behavior of a person, gives prediction and advises about different aspects of life such as marriage, travel, enmity, pregnancy, trial, illness, business and so much more by calculating the letters of names, places, months and other fields that are required by the categories you chose.
 
-The technologies I used to build the app are:
+The _technologies_ I used to build the app are:
 <div align="center">
-<p>
-  <img alt="Brave browser" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <p>
+    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+    <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
   </p>
-  </div>
+</div>
 
 ## Top used languages
 
