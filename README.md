@@ -2,15 +2,15 @@
 [![Kidus' LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kidusmik)
 [![Kidus' Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/Kidusmike)
 [![Kidus' Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kidusmik)
-[![Kidus' StackOverflow](https://img.shields.io/badge/Stackoverflow-ff7700?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://www.twitter.com/Kidusmike)
+[![Kidus' StackOverflow](https://img.shields.io/badge/Stackoverflow-ff7700?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/10644546/kidus)
 [![Kidus' Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kidusmik@gmail.com)
 [![Kidus' Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/kidusmik)
 
-Nice to meet you, I'm Kidus, a **Software Engineer**, **Full-Stack Web Developer** and **Android Application Developer** from <img src="https://cdn-icons-png.flaticon.com/512/197/197636.png" width="13"/>_Addis Ababa, Ethiopia_.
+Nice to meet you, I am Kidus, a **Software Engineer**, **Full Stack web developer** and **Android Application developer** from <img src="https://cdn-icons-png.flaticon.com/512/197/197636.png" width="13"/>_Addis Ababa, Ethiopia_.
 
 I am interested in anything **Tech** and enthusiastic about solving real life problems and applying my skill set to solve and have meaningful impact in _online_ or _offline_ communities.
 
-I am currently studying **Full-Stack Web development** and also **Artificial Intelligence**, and just to talk about my past acheivements, I have a _BSc. degree_ in **Electromechanical Engineering** and I have worked in the **Electronics and Communication Engineering** sector.
+I am currently studying Google Cloud Platform to become a **Google Associate Cloud Engineer**, and just to talk about my past acheivements, I am a certified **Full Stack web developer** and also a certified **Artificial Intelligence programmer**, I also have a _BSc. degree_ in **Electromechanical Engineering** and I have worked in the **Electronics and Communication Engineering** sector.
 
 ## Things I'm working with
 <div align="center">
