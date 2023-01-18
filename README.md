@@ -61,13 +61,13 @@ The _technologies_ I used to build the app are:
   </p>
 </div>
 
-## Top used languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidusmik)](https://github.com/kidusmik/github-readme-stats)
-
 ## GitHub Stats
 
-![Kidus' GitHub stats](https://github-readme-stats.vercel.app/api?username=kidusmik&show_icons=truecount_private=true)
+<a href="https://quine.sh/profile/kidusmik"><img src="https://stats.quine.sh/kidusmik/github" alt="kidusmik's GitHub stats" width="840px"></a>
+
+## StackOverflow Stats
+
+[![kidusmik's Stack Overflow achievements](https://stats.quine.sh/kidusmik/stack-overflow)](https://quine.sh/profile/kidusmik)
 
 <!---
 kidusmik/kidusmik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
