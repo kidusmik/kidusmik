@@ -67,7 +67,7 @@ The _technologies_ I used to build the app are:
 
 ## StackOverflow Stats
 
-<a href="https://quine.sh/profile/kidusmik"><img src="https://stats.quine.sh/kidusmik/stack-overflow" alt="kidusmik's StackOverflow stats" width="840px"></a>
+<a href="https://quine.sh/profile/kidusmik"><img src="https://stats.quine.sh/kidusmik/stack-overflow" alt="kidusmik's StackOverflow stats" width="420px"></a>
 
 <!---
 kidusmik/kidusmik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
