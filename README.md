@@ -1,10 +1,11 @@
 # 👋 Hi there!
-[![Kidus' LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kidusmik)
-[![Kidus' Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/Kidusmike)
-[![Kidus' Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kidusmik)
-[![Kidus' StackOverflow](https://img.shields.io/badge/Stackoverflow-ff7700?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/10644546/kidus)
-[![Kidus' Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kidusmik@gmail.com)
-[![Kidus' Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/kidusmik)
+<div align="center">
+  <p>
+    <a href="https://www.linkedin.com/in/kidusmik"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://stackoverflow.com/users/10644546/kidus"><img src="https://img.shields.io/badge/Stackoverflow-ff7700?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
+    <a href="https://t.me/kidusmik"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  </p>
+</div>
 
 Nice to meet you, I am Kidus, a **Software Engineer**, **Full Stack web developer** and **Android Application developer** from <img src="https://cdn-icons-png.flaticon.com/512/197/197636.png" width="13"/>_Addis Ababa, Ethiopia_.
 
