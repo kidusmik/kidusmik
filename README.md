@@ -11,7 +11,7 @@ Nice to meet you, I am Kidus, a **Software Engineer**, **Full Stack web develope
 
 I am interested in anything **Tech** and enthusiastic about solving real life problems and applying my skill set to solve and have meaningful impact in _online_ or _offline_ communities.
 
-I am currently studying Google Cloud Platform to become a **Google Associate Cloud Engineer**, and just to talk about my past acheivements, I am a certified **Full Stack web developer** and also a certified **Artificial Intelligence programmer**, I also have a _BSc. degree_ in **Electromechanical Engineering** and I have worked in the **Electronics and Communication Engineering** sector.
+I am currently studying **Machine Learning** at Udacity, and just to talk about my past acheivements, I am a certified **Full Stack web developer** and also a certified **Artificial Intelligence programmer**, I also have a _BSc. degree_ in **Electromechanical Engineering** and I have worked in the **Electronics and Communication Engineering** sector.
 
 ## Things I'm working with
 <div align="center">
