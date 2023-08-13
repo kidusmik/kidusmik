@@ -62,6 +62,25 @@ The _technologies_ I used to build the app are:
   </p>
 </div>
 
+### 2. Enney
+
+[<img alt="alt_text" width="100px" src="https://starxdevelopment.files.wordpress.com/2023/08/enney-logo.png" align="left"/>](https://play.google.com/store/apps/details?id=com.starx.development.enney
+)
+
+**Enney** is an **Astrology** and **Personality** app, where you can discover your **Western**, **Vedic**, **Chinese**, **Native American**, **Celtic** and **Ethiopian** astrological signs. It provides detailed insights into your **Sun**, **Moon**, **Ascendant**, **Mercury**, **Venus**, **Mars**, **Jupiter**, **Saturn**, **Uranus**, **Neptune**, **Rahu** and **Ketu** signs, giving you a comprehensive analysis of your *astrological* chart. In addition, it includes **psychology** *personality tests*, the **Myers-Briggs** type indicator (**MBTI**) and **Enneagram**, that provides an in-depth analysis of your *personality type*, *strengths*, and *weaknesses*. It also offers some information about **Palmistry**, allowing you to explore the *lines* on your **palm** and gain some insights. It offers information to explore the connection between the **stars**, the **psyche**, and the **future**.
+
+The _technologies_ I used to build the app are:
+<div align="center">
+  <p>
+    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+    <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+    <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+    <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
+    <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  </p>
+</div>
+
 ## Stats
 
 <a href="https://quine.sh/profile/kidusmik"><img src="https://stats.quine.sh/kidusmik/github" alt="kidusmik's GitHub stats" width="420px"></a>
