@@ -50,6 +50,8 @@ Here are few of my projects that I have **released/deployed**.
 
 The **Inventory Management System** is a robust web application developed using **Flask** and **Python**, designed to streamline and enhance the management of inventory for businesses of all sizes. This application provides a user-friendly interface built with **Jinja**, enabling efficient tracking, management, and reporting of inventory items.
 
+<br />
+
 #### Key Features
 
 - **User Roles and Permissions**: 
