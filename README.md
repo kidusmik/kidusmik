@@ -56,18 +56,13 @@ The **Inventory Management System** is a robust web application developed using 
 
 - **User Roles and Permissions**: 
   The application supports multiple user roles, each with specific permissions to ensure a secure and organized workflow:
-  - **Administrator**: The superuser with full access to all features, including user management. The administrator can add, edit, or remove items from the inventory, as well as manage user roles and permissions.
-    - **Username**: `admin` 
-    - **Password**: `admin`
+  - **Administrator**: The superuser with full access to all features, including user management. The administrator can add, edit, or remove items from the inventory, as well as manage user roles and permissions.`
+
   - **Storekeeper**: Responsible for adding new items to the inventory. This role allows the storekeeper to maintain accurate records of stock levels.
-    - **Username**: `storekeeper` 
-    - **Password**: `store`
+
   - **Clerk**: Focused on the checkout process, the clerk can remove items from the inventory, facilitating sales and inventory depletion.
-    - **Username**: `clerk`
-    - **Password**: `clerk`
+
   - **Accountant**: This role is dedicated to viewing and generating reports based on inventory data, enabling financial oversight and analysis.
-    - **Username**: `accountant` 
-    - **Password**: `accountant`
 
 - **Inventory Tracking**: 
   The system allows for real-time tracking of inventory levels, ensuring that businesses can monitor stock availability and make informed purchasing decisions.
