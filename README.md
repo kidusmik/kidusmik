@@ -47,7 +47,9 @@ Here are few of my projects that I have **released/deployed**.
 
 ### 1. Inventory Management System
 
-[<img alt="alt_text" width="100px" src="https://awdenegest.wordpress.com/wp-content/uploads/2024/11/i-m-logo.jpg" align="left"/>](https://www.nufoqya.com/preview)
+<a href="https://www.nufoqya.com/preview" target="_blank">
+  <img src="https://awdenegest.wordpress.com/wp-content/uploads/2024/11/i-m-logo.jpg" align="left" width="100px" alt="Inventory Management App Logo" />
+</a>
 
 The **Inventory Management System** is a robust web application developed using **Flask** and **Python**, designed to streamline and enhance the management of inventory for businesses of all sizes. This application provides a user-friendly interface built with **Jinja**, enabling efficient tracking, management, and reporting of inventory items.
 
@@ -106,7 +108,9 @@ Here are some of my previous projects that are no longer live:
 
 ### 1. Awde Negest
 
-[<img alt="alt_text" width="100px" src="https://awdenegest.files.wordpress.com/2021/09/a-n-logo.png" align="left"/>](https://drive.google.com/file/d/1N0m-MtnPIZ3T6jVNOgR9tcggPCrALxUi/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1N0m-MtnPIZ3T6jVNOgR9tcggPCrALxUi/view?usp=sharing" target="_blank">
+  <img src="https://awdenegest.files.wordpress.com/2021/09/a-n-logo.png" align="left" width="100px" alt="Awde Negest Logo" />
+</a>
 
 **Awde Negest** is an _Ethiopian_ **astrology** which divines personality and behavior of a person, gives prediction and advises about different aspects of life such as marriage, travel, enmity, pregnancy, trial, illness, business and so much more by calculating the letters of names, places, months and other fields that are required by the categories you chose.
 
@@ -125,7 +129,9 @@ The _technologies_ I used to build the app are:
 
 ### 2. Enney
 
-[<img alt="alt_text" width="100px" src="https://starxdevelopment.files.wordpress.com/2023/08/enney-logo.png" align="left"/>](https://drive.google.com/file/d/1qBMyKPWTY9Y-G-L7wsklL1eDPNziSpE_/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1qBMyKPWTY9Y-G-L7wsklL1eDPNziSpE_/view?usp=sharing" target="_blank">
+  <img src="https://starxdevelopment.files.wordpress.com/2023/08/enney-logo.png" align="left" width="100px" alt="Enney Logo" />
+</a>
 
 **Enney** is an **Astrology** and **Personality** app, where you can discover your **Western**, **Vedic**, **Chinese**, **Native American**, **Celtic** and **Ethiopian** astrological signs. It provides detailed insights into your **Sun**, **Moon**, **Ascendant**, **Mercury**, **Venus**, **Mars**, **Jupiter**, **Saturn**, **Uranus**, **Neptune**, **Rahu** and **Ketu** signs, giving you a comprehensive analysis of your *astrological* chart. In addition, it includes **psychology** *personality tests*, the **Myers-Briggs** type indicator (**MBTI**) and **Enneagram**, that provides an in-depth analysis of your *personality type*, *strengths*, and *weaknesses*. It also offers some information about **Palmistry**, allowing you to explore the *lines* on your **palm** and gain some insights. It offers information to explore the connection between the **stars**, the **psyche**, and the **future**.
 
