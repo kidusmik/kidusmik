@@ -48,7 +48,7 @@ Here are few of my projects that I have **released/deployed**.
 ### 1. Inventory Management System
 
 <a href="https://www.nufoqya.com/preview" target="_blank">
-  <img src="https://awdenegest.wordpress.com/wp-content/uploads/2024/11/i-m-logo.jpg" align="left" width="100px" alt="Inventory Management App Logo" />
+  <img src="https://awdenegest.wordpress.com/wp-content/uploads/2024/11/i-m-logo.jpg" align="left" width="100px" alt="Inventory Management App Logo">
 </a>
 
 The **Inventory Management System** is a robust web application developed using **Flask** and **Python**, designed to streamline and enhance the management of inventory for businesses of all sizes. This application provides a user-friendly interface built with **Jinja**, enabling efficient tracking, management, and reporting of inventory items.
