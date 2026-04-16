@@ -41,66 +41,56 @@ I am currently studying **Machine Learning** at Udacity, and just to talk about 
 </div>
 
 
-## My Live Projects
-
-Here are few of my projects that I have **released/deployed**.
-
-### 1. Inventory Management System
+## 🚀 Featured Project: Inventory Management System
 
 <a href="https://www.nufoqya.com/preview" target="_blank">
   <img src="https://awdenegest.wordpress.com/wp-content/uploads/2024/11/i-m-logo.jpg" align="left" width="100px" alt="Inventory Management App Logo">
 </a>
 
-The **Inventory Management System** is a robust web application developed using **Flask** and **Python**, designed to streamline and enhance the management of inventory for businesses of all sizes. This application provides a user-friendly interface built with **Jinja**, enabling efficient tracking, management, and reporting of inventory items.
+I recently developed and deployed a comprehensive, enterprise-grade Inventory Management System tailored for organizational efficiency and financial accuracy. This project showcases my ability to build secure, scalable, and user-centric "Full-Stack" solutions.
 
 <br />
 
-#### Key Features
+### 🛠 Tech Stack
 
-- **User Roles and Permissions**: 
-  The application supports multiple user roles, each with specific permissions to ensure a secure and organized workflow:
-  - **Administrator**: The superuser with full access to all features, including user management. The administrator can add, edit, or remove items from the inventory, as well as manage user roles and permissions.`
+- **Backend**: Python 3.11, Flask, SQLAlchemy (ORM)
+- **Database**: PostgreSQL (with complex FIFO & Weighted Average Costing logic)
+- **Security**: AES encryption for sensitive data, CVE-aware hardening, and secure session management.
+- **Frontend**: Responsive Web Interface (optimized for desktop data entry).
+- **DevOps**: Automated backups, cPanel/Linux deployment, and integrated Telegram communication bot.
 
-  - **Storekeeper**: Responsible for adding new items to the inventory. This role allows the storekeeper to maintain accurate records of stock levels.
+### 🌟 Key Features
 
-  - **Clerk**: Focused on the checkout process, the clerk can remove items from the inventory, facilitating sales and inventory depletion.
+- **Financial Reporting**: Automated Stock Valuation reports using multiple accounting methods (FIFO & WAC).
+- **Identity Management**: Custom corporate email integration (@domain.com) and role-based access control (RBAC).
+- **Security First**: Migrated to Python 3.11 to address modern system vulnerabilities and implemented SSL/TLS hardening.
+- **Real-time Updates**: Integrated Telegram Channel for system notifications and technical support.
+- **Architecture**: Modular Python backend with a clean separation of concerns for easy scaling.
 
-  - **Accountant**: This role is dedicated to viewing and generating reports based on inventory data, enabling financial oversight and analysis.
+### 📈 Business Impact
 
-- **Inventory Tracking**: 
-  The system allows for real-time tracking of inventory levels, ensuring that businesses can monitor stock availability and make informed purchasing decisions.
+This system transformed a manual tracking process into a streamlined digital ecosystem, providing the leadership team with real-time financial transparency and data security.
 
-- **User Management**: 
-  Administrators can create, modify, and delete user accounts, as well as assign roles, ensuring that employees have the appropriate access to perform their duties effectively.
+### 🛡️ Proven Reliability
+This system is currently deployed and serving as the primary inventory and financial management tool for **Nufoqya**. 
 
-- **Reporting**: 
-  The accountant can view reports on inventory status, sales data, and user activity, providing valuable insights for business operations and strategic planning.
+* **Verified Performance:** Successfully managed a high-volume database migration with zero downtime.
+* **Client Trust:** Actively maintained with direct oversight from the organization's Finance and Executive departments.
+* **References:** High-level professional recommendations available upon request.
 
-#### Technology Stack
-- **Backend**: Flask (Python)
-- **Frontend**: Jinja (HTML/CSS)
-- **Database**: PostgreSQL
+#### 💬 Client Testimonial
 
-#### How It Works
-Upon logging in, users are directed to a dashboard tailored to their role. The intuitive interface enables them to perform their tasks efficiently:
-- **Storekeepers** can add items quickly using a straightforward form.
-- **Clerks** can check out items with just a few clicks, ensuring a smooth transaction process.
-- **Accountants** can navigate to the reports section to view detailed analytics of inventory movements and stock levels.
+> "I am happy with the update as usual and appreciate the initiative... I believe Kidus would be a great asset for other projects."
+— Almaz, Executive Director at Nufoqya
 
-This Inventory Management System is an essential tool for businesses looking to optimize their inventory processes, reduce errors, and improve overall operational efficiency.
+### 🤝 Let's Collaborate
 
-### Deployment
-The Inventory Management System is deployed on a **cPanel server**, ensuring reliable access and easy management of hosting resources.
+Are you looking to modernize your organization's workflow or need a secure, custom-built software solution? I am available for consultations and new projects.
 
-The _technologies_ I used to build the app are:
-<div align="center">
-  <p>
-    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-    <img alt="Flask" src="https://img.shields.io/badge/flask-333333?style=for-the-badge&logo=flask&logoColor=white" />
-    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-  </p>
-</div>
+- Phone: +251 913 363 031
+- Email: kidusmik@gmail.com
+
+Feel free to reach out if you'd like a live demonstration of the system or want to discuss how I can help your company grow.
 
 ## My Archived Projects
 
