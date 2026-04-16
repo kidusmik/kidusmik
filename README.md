@@ -72,7 +72,7 @@ I recently developed and deployed a comprehensive, enterprise-grade Inventory Ma
 This system transformed a manual tracking process into a streamlined digital ecosystem, providing the leadership team with real-time financial transparency and data security.
 
 ### 🛡️ Proven Reliability
-This system is currently deployed and serving as the primary inventory and financial management tool for **Nufoqya**. 
+This system is currently deployed and serving as the primary inventory and financial management tool for [**Nufoqya**](http://nufoqya.com/). 
 
 * **Verified Performance:** Successfully managed a high-volume database migration with zero downtime.
 * **Client Trust:** Actively maintained with direct oversight from the organization's Finance and Executive departments.
