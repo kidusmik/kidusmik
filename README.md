@@ -1,6 +1,7 @@
 # 👋 Hi there!
 <div align="center">
   <p>
+    <a href="https://www.linkedin.com/in/kidusmworku/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:kidusmik@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <!-- <a href="https://www.linkedin.com/in/kidusmik"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
     <a href="https://stackoverflow.com/users/10644546/kidus"><img src="https://img.shields.io/badge/Stackoverflow-ff7700?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
