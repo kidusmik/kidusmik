@@ -3,17 +3,16 @@
   <p>
     <a href="https://www.linkedin.com/in/kidusmworku/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:kidusmik@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <!-- <a href="https://www.linkedin.com/in/kidusmik"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
     <a href="https://stackoverflow.com/users/10644546/kidus"><img src="https://img.shields.io/badge/Stackoverflow-ff7700?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
     <a href="https://t.me/kidusmik"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   </p>
 </div>
 
-Nice to meet you, I am Kidus, a **Software Engineer**, **Full Stack web developer** and **Android Application developer** from <img src="https://cdn-icons-png.flaticon.com/512/197/197636.png" width="13"/>_Addis Ababa, Ethiopia_.
+Nice to meet you! I am Kidus, a **Software Engineer**, **Full Stack Web Developer**, and **Android Application Developer** based in <img src="https://cdn-icons-png.flaticon.com/512/197/197636.png" width="13"/> _Addis Ababa, Ethiopia_.
 
-I am interested in anything **Tech** and enthusiastic about solving real life problems and applying my skill set to solve and have meaningful impact in _online_ or _offline_ communities.
+I am passionate about solving real-world challenges and designing high-impact digital solutions that meaningfully optimize both online platforms and local corporate infrastructures.
 
-I am currently studying **Machine Learning** at Udacity, and just to talk about my past acheivements, I am a certified **Full Stack web developer** and also a certified **Artificial Intelligence programmer**, I also have a _BSc. degree_ in **Electromechanical Engineering** and I have worked in the **Electronics and Communication Engineering** sector.
+I hold a *BSc. degree* in **Electromechanical Engineering** and bring diverse domain experience from the **Electronics and Communication Engineering** sector. Driven by continuous learning, I have earned certifications as a **Full Stack Web Developer** and an **Artificial Intelligence Programmer**, and I am currently expanding my expertise by studying **Machine Learning** with Udacity.
 
 ## Things I'm working with
 <div align="center">
@@ -48,36 +47,43 @@ I am currently studying **Machine Learning** at Udacity, and just to talk about 
   <img src="https://awdenegest.wordpress.com/wp-content/uploads/2024/11/i-m-logo.jpg" align="left" width="100px" alt="Inventory Management App Logo">
 </a>
 
-I recently developed and deployed a comprehensive, enterprise-grade Inventory Management System tailored for organizational efficiency and financial accuracy. This project showcases my ability to build secure, scalable, and user-centric "Full-Stack" solutions.
+I recently developed and deployed a comprehensive, enterprise-grade Inventory Management System tailored for organizational efficiency and financial accuracy. This project showcases my ability to build secure, scalable, and user-centric full-stack solutions.
 
 <br />
 
 ### 🛠 Tech Stack
 
 - **Backend**: Python 3.11, Flask, SQLAlchemy (ORM)
-- **Database**: PostgreSQL (with complex FIFO & Weighted Average Costing logic)
-- **Security**: AES encryption for sensitive data, CVE-aware hardening, and secure session management.
-- **Frontend**: Responsive Web Interface (optimized for desktop data entry).
-- **DevOps**: Automated backups, cPanel/Linux deployment, and integrated Telegram communication bot.
+- **Database**: PostgreSQL (engineered with strict FIFO & Weighted Average Costing valuation logic)
+- **Security**: AES encryption for sensitive fields, CVE-aware environment hardening, and secure role-based session states.
+- **Frontend**: Fully responsive web dashboard (highly optimized for heavy corporate data entry workflows).
+- **DevOps**: Automated backup schedules, Linux server administration, and asynchronous Telegram monitoring integration.
 
 ### 🌟 Key Features
 
-- **Financial Reporting**: Automated Stock Valuation reports using multiple accounting methods (FIFO & WAC).
-- **Identity Management**: Custom corporate email integration (@domain.com) and role-based access control (RBAC).
-- **Security First**: Migrated to Python 3.11 to address modern system vulnerabilities and implemented SSL/TLS hardening.
-- **Real-time Updates**: Integrated Telegram Channel for system notifications and technical support.
-- **Architecture**: Modular Python backend with a clean separation of concerns for easy scaling.
+- **Financial Intelligence**: Dynamic generation of official Stock Valuation and corporate tax reporting sheets using real-time WAC/FIFO tracking.
+- **Identity & Access Management**: Fully integrated customized corporate mailing domains (`@domain.com`) backed by rigorous role-based access controls (RBAC).
+- **Immutability & Security First**: Formulated architectural layouts restricting ledger entry edits/undos exclusively to administrative tiers to guard corporate audit trails.
+- **Instant System Alerts**: Fully custom companion Telegram bots connected via system event loops to push immediate critical alerts and platform updates straight to company threads.
 
-### 📈 Business Impact
+---
 
-This system transformed a manual tracking process into a streamlined digital ecosystem, providing the leadership team with real-time financial transparency and data security.
+### 📺 System Demonstration & Walkthrough
+<div align="center">
+  <a href="https://youtu.be/lfJfP__uLvA" target="_blank">
+    <img src="https://img.youtube.com/vi/lfJfP__uLvA/maxresdefault.jpg" alt="Inventory System Walkthrough" width="100%" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+  </a>
+  <p><em>Click the thumbnail block above to watch a detailed 17-minute live run-through demonstrating architecture, workflows, and dynamic ledger evaluations.</em></p>
+</div>
 
-### 🛡️ Proven Reliability
-This system is currently deployed and serving as the primary inventory and financial management tool for [**Nufoqya**](http://nufoqya.com/). 
+---
 
-* **Verified Performance:** Successfully managed a high-volume database migration with zero downtime.
-* **Client Trust:** Actively maintained with direct oversight from the organization's Finance and Executive departments.
-* **References:** High-level professional recommendations available upon request.
+### 🛡️ Deployed Scale & Reliability
+This platform is actively deployed and operates as the central inventory management engine for [**Nufoqya Real Estate**](http://nufoqya.com/). 
+
+* **Verified Performance:** Orchestrated seamless production database migrations without a single second of service downtime.
+* **Corporate Oversight:** Maintained directly under standard operational protocols governed by Executive and Finance branches.
+* **References:** Professional enterprise performance letters available upon direct request.
 
 #### 💬 Client Testimonial
 
@@ -86,16 +92,16 @@ This system is currently deployed and serving as the primary inventory and finan
 
 ### 🤝 Let's Collaborate
 
-Are you looking to modernize your organization's workflow or need a secure, custom-built software solution? I am available for consultations and new projects.
+Are you looking to modernize your business workflow or require a highly secure, custom-engineered backend framework? I am available for architectural consulting and contract work.
 
-- Phone: +251 913 363 031
-- Email: kidusmik@gmail.com
+- **Telegram Direct:** [@kidusmik](https://t.me/kidusmik)
+- **Email:** kidusmik@gmail.com
 
-Feel free to reach out if you'd like a live demonstration of the system or want to discuss how I can help your company grow.
+---
 
 ## My Archived Projects
 
-Here are some of my previous projects that are no longer live:
+Here are some of my legacy mobile application architectures that are no longer actively maintained:
 
 ### 1. Awde Negest
 
@@ -103,9 +109,9 @@ Here are some of my previous projects that are no longer live:
   <img src="https://awdenegest.files.wordpress.com/2021/09/a-n-logo.png" align="left" width="100px" alt="Awde Negest Logo" />
 </a>
 
-**Awde Negest** is an _Ethiopian_ **astrology** which divines personality and behavior of a person, gives prediction and advises about different aspects of life such as marriage, travel, enmity, pregnancy, trial, illness, business and so much more by calculating the letters of names, places, months and other fields that are required by the categories you chose.
+**Awde Negest** is an algorithmic mobile adaptation of traditional Ethiopian astrology systems. It parses and computes contextual combinations of names, geographical locations, and chronological matrices to provide comprehensive personality mappings, predictions, and guidance metrics for specialized life parameters (e.g., enterprise ventures, travels, and relational pairings). It is an Ethiopian astrology which divines personality and behavior of a person, gives prediction and advises about different aspects of life such as marriage, travel, enmity, pregnancy, trial, illness, business and so much more by calculating the letters of names, places, months and other fields that are required by the categories you chose.
 
-The _technologies_ I used to build the app are:
+**Core Mobile Technologies Used:**
 <div align="center">
   <p>
     <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
@@ -124,9 +130,9 @@ The _technologies_ I used to build the app are:
   <img src="https://starxdevelopment.files.wordpress.com/2023/08/enney-logo.png" align="left" width="100px" alt="Enney Logo" />
 </a>
 
-**Enney** is an **Astrology** and **Personality** app, where you can discover your **Western**, **Vedic**, **Chinese**, **Native American**, **Celtic** and **Ethiopian** astrological signs. It provides detailed insights into your **Sun**, **Moon**, **Ascendant**, **Mercury**, **Venus**, **Mars**, **Jupiter**, **Saturn**, **Uranus**, **Neptune**, **Rahu** and **Ketu** signs, giving you a comprehensive analysis of your *astrological* chart. In addition, it includes **psychology** *personality tests*, the **Myers-Briggs** type indicator (**MBTI**) and **Enneagram**, that provides an in-depth analysis of your *personality type*, *strengths*, and *weaknesses*. It also offers some information about **Palmistry**, allowing you to explore the *lines* on your **palm** and gain some insights. It offers information to explore the connection between the **stars**, the **psyche**, and the **future**.
+**Enney** is a massive cross-cultural astrological and personality analytics platform. The application unifies disparate evaluation systems (Vedic, Western, Chinese, Celtic, and traditional Ethiopian charts) while implementing fully integrated personality assessment modules modeled on the Myers-Briggs Type Indicator (MBTI) and the Enneagram structure. It provides detailed insights into your Sun, Moon, Ascendant, Mercury, Venus, Mars, Jupiter, Saturn, Uranus, Neptune, Rahu and Ketu signs, giving you a comprehensive analysis of your astrological chart. In addition, it includes psychology personality tests, the Myers-Briggs type indicator (MBTI) and Enneagram, that provides an in-depth analysis of your personality type, strengths, and weaknesses. It also offers some information about Palmistry, allowing you to explore the lines on your palm and gain some insights. It offers information to explore the connection between the stars, the psyche, and the future.
 
-The _technologies_ I used to build the app are:
+**Core Mobile Technologies Used:**
 <div align="center">
   <p>
     <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
@@ -140,18 +146,6 @@ The _technologies_ I used to build the app are:
 
 <!---
 ## Stats
-
 <a href="https://quine.sh/profile/kidusmik"><img src="https://stats.quine.sh/kidusmik/github" alt="kidusmik's GitHub stats" width="420px"></a>
-
-
 <a href="https://quine.sh/profile/kidusmik"><img src="https://stats.quine.sh/kidusmik/stack-overflow" alt="kidusmik's StackOverflow stats" width="420px"></a>
---->
-
-<!---
-kidusmik/kidusmik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-docs: Update personal profile README.md
-
-I made changes to the links and overall style of my account.
 --->
