@@ -99,51 +99,6 @@ Are you looking to modernize your business workflow or require a highly secure, 
 
 ---
 
-## My Archived Projects
-
-Here are some of my legacy mobile application architectures that are no longer actively maintained:
-
-### 1. Awde Negest
-
-<a href="https://drive.google.com/file/d/1N0m-MtnPIZ3T6jVNOgR9tcggPCrALxUi/view?usp=sharing" target="_blank">
-  <img src="https://awdenegest.files.wordpress.com/2021/09/a-n-logo.png" align="left" width="100px" alt="Awde Negest Logo" />
-</a>
-
-**Awde Negest** is an algorithmic mobile adaptation of traditional Ethiopian astrology systems. It parses and computes contextual combinations of names, geographical locations, and chronological matrices to provide comprehensive personality mappings, predictions, and guidance metrics for specialized life parameters (e.g., enterprise ventures, travels, and relational pairings). It is an Ethiopian astrology which divines personality and behavior of a person, gives prediction and advises about different aspects of life such as marriage, travel, enmity, pregnancy, trial, illness, business and so much more by calculating the letters of names, places, months and other fields that are required by the categories you chose.
-
-**Core Mobile Technologies Used:**
-<div align="center">
-  <p>
-    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-    <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
-    <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-    <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
-    <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  </p>
-</div>
-
-### 2. Enney
-
-<a href="https://drive.google.com/file/d/1qBMyKPWTY9Y-G-L7wsklL1eDPNziSpE_/view?usp=sharing" target="_blank">
-  <img src="https://starxdevelopment.files.wordpress.com/2023/08/enney-logo.png" align="left" width="100px" alt="Enney Logo" />
-</a>
-
-**Enney** is a massive cross-cultural astrological and personality analytics platform. The application unifies disparate evaluation systems (Vedic, Western, Chinese, Celtic, and traditional Ethiopian charts) while implementing fully integrated personality assessment modules modeled on the Myers-Briggs Type Indicator (MBTI) and the Enneagram structure. It provides detailed insights into your Sun, Moon, Ascendant, Mercury, Venus, Mars, Jupiter, Saturn, Uranus, Neptune, Rahu and Ketu signs, giving you a comprehensive analysis of your astrological chart. In addition, it includes psychology personality tests, the Myers-Briggs type indicator (MBTI) and Enneagram, that provides an in-depth analysis of your personality type, strengths, and weaknesses. It also offers some information about Palmistry, allowing you to explore the lines on your palm and gain some insights. It offers information to explore the connection between the stars, the psyche, and the future.
-
-**Core Mobile Technologies Used:**
-<div align="center">
-  <p>
-    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-    <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
-    <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-    <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
-    <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  </p>
-</div>
-
 <!---
 ## Stats
 <a href="https://quine.sh/profile/kidusmik"><img src="https://stats.quine.sh/kidusmik/github" alt="kidusmik's GitHub stats" width="420px"></a>
